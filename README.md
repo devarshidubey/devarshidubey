@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devarshidubey
 - 👀 I’m interested in building websites and web designing
 - 🌱 I’m currently learning Data Structures and Algorithms using python and web development
-- 💞️ I’m looking to collaborate on front end projects
+- 💞️ I’m looking to collaborate on Django back end projects
 - 📫 How to reach me: devdubey7582@gmail.com
 
 <!---
